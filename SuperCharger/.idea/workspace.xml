@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42fef54b-e073-40a3-85e8-71f90a026766" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="203" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJYpiRM5jVUC0dOJz3XoQryTDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SuperCharger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuperCharger" />
+      <module name="SuperCharger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SuperCharger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42fef54b-e073-40a3-85e8-71f90a026766" name="Default Changelist" comment="" />
+      <created>1582662348064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582662348064</updated>
+      <workItem from="1582662352536" duration="18101000" />
+      <workItem from="1582898528448" duration="168000" />
+      <workItem from="1583861118210" duration="325000" />
+      <workItem from="1583872292719" duration="40000" />
+      <workItem from="1583874244865" duration="2000" />
+      <workItem from="1584475157253" duration="998000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1582774164573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582774164573" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1582774164572">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582774164572" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1582774164571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582774164571" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1582774164572">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582774164572" />
+    <state width="1398" height="287" key="GridCell.Tab.1.bottom" timestamp="1582744373001">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="287" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582744373001" />
+    <state width="1398" height="287" key="GridCell.Tab.1.center" timestamp="1582744373000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="287" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582744373000" />
+    <state width="1398" height="287" key="GridCell.Tab.1.left" timestamp="1582744373000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="287" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582744373000" />
+    <state width="1398" height="287" key="GridCell.Tab.1.right" timestamp="1582744373001">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="287" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582744373001" />
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1583861133994">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583861133994" />
+    <state x="458" y="222" key="extract.method.dialog" timestamp="1582673094916">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="222" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1582673094916" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SuperCharger$SuperCharger.ic" NAME="SuperCharger Coverage Results" MODIFIED="1582744277729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

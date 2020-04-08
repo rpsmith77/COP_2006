@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96967553-0e81-4fb2-b092-538e30ca944a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YxBkfb93Wygt2P2dXJynxF5aM7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TollOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TollCollection.TollOperation" />
+      <module name="TollCollectionV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TollCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TollOperation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96967553-0e81-4fb2-b092-538e30ca944a" name="Default Changelist" comment="" />
+      <created>1583874509643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583874509643</updated>
+      <workItem from="1583874513124" duration="255000" />
+      <workItem from="1583952520169" duration="82000" />
+      <workItem from="1584041783137" duration="84000" />
+      <workItem from="1584046144442" duration="6252000" />
+      <workItem from="1584461199494" duration="5097000" />
+      <workItem from="1584644614078" duration="9486000" />
+      <workItem from="1585676867167" duration="746000" />
+      <workItem from="1586289679380" duration="636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom" timestamp="1584717990785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584717990785" />
+    <state width="1398" height="229" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1584717679053" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center" timestamp="1584717990785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584717990785" />
+    <state width="1398" height="229" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1584717679052" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left" timestamp="1584717990784">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584717990784" />
+    <state width="1398" height="229" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1584717679051" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right" timestamp="1584717990785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584717990785" />
+    <state width="1398" height="229" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1584717679052" />
+    <state x="380" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1586289679057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="380" y="298" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586289679057" />
+    <state x="458" y="237" key="extract.method.dialog" timestamp="1584106029962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="237" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1584106029962" />
+  </component>
+</project>
