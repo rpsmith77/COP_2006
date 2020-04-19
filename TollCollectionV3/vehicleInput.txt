@@ -1,0 +1,3 @@
+3:gas:2:cash
+1:ev:1:es
+2:hybrid:5:card

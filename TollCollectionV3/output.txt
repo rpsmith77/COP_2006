@@ -1,0 +1,12 @@
+
+Ran on[2020-04-19, 17:59:32.399]
+Vehicle #1 was charged $1.20
+Vehicle #2 was charged $1.15
+Vehicle #3 was charged $6.50
+Booth #1 total: $1.15
+Booth #2 total: $6.50
+Booth #3 total: $1.20
+Total collected from card payments: $1.15
+Total collected from cash payments: $6.50
+Total collected from electronic service payments: $1.20
+Total collected for all booths: $8.85

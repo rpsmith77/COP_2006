@@ -1,0 +1,9 @@
+Number of Booths:3
+Base Rate per axle:1
+Rate for 3 axles and over:5
+Price change for electric vehicle:0.5
+Price change for hybrid vehicle:0.75
+Price change for gas vehicle:1
+Price change for Card payment:1.15
+Price change for Cash payment:1
+Price change for electronic service:0.8
