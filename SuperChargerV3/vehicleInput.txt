@@ -1,0 +1,3 @@
+outlet #:1; battery capacity:50; battery efficiency:90; starting charge level:20; ending charge level:80; paying:true
+outlet #:2; battery capacity:500; battery efficiency:80; starting charge level:0; ending charge level:100; paying:true
+outlet #:3; battery capacity:25; battery efficiency:99; starting charge level:60; ending charge level:95; paying:false
