@@ -1,7 +1,7 @@
 # COP 2006: Intro to Programing
 #### FGCU, Spring 2020
 ## Course Description:
-Introductory computer programming concepts and problem-solving skills are learned using a modern programming language. Principles of good programming style are emphasized.
+Introductory computer programming concepts and problem-solving skills are learned using a modern programming language (Java 8). Principles of good programming style are emphasized.
 ## Learning Objectives:
 The student will learn fundamental-to-intermediate programming concepts, including data types, expressions, classes, arrays, methods, conditional statements, loops, and input/output, with application development using the Java object-oriented programming language. Essential skills to decompose, design, and code basic control structures and program modules will also be taught. Specifically, the student will acquire the following outcomes: 
 1. Demonstrated an understanding of the domain and principles of high-level programming languages. 
